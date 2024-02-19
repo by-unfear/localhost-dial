@@ -1,0 +1,200 @@
+[
+	{
+		"id": "1",
+		"titulo": "Facebook",
+		"link": "facebook.com",
+		"aba": "1"
+	},
+	{
+		"id": "2",
+		"titulo": "Instagram",
+		"link": "instagram.com",
+		"aba": "1"
+	},
+	{
+		"id": "3",
+		"titulo": "Twitter",
+		"link": "twitter.com",
+		"aba": "1"
+	},
+	{
+		"id": "4",
+		"titulo": "WhatsApp",
+		"link": "web.whatsapp.com",
+		"aba": "1"
+	},
+	{
+		"id": "5",
+		"titulo": "Youtube",
+		"link": "youtube.com",
+		"aba": "1"
+	},
+	{
+		"id": "6",
+		"titulo": "Twitch",
+		"link": "twitch.tv/directory/following",
+		"aba": "1"
+	},
+	{
+		"id": "7",
+		"titulo": "Bing",
+		"link": "bing.com",
+		"aba": "1"
+	},
+	{
+		"id": "8",
+		"titulo": "Google",
+		"link": "google.com",
+		"aba": ""
+	},
+	{
+		"id": "9",
+		"titulo": "Meio Bit",
+		"link": "meiobit.com",
+		"aba": ""
+	},
+	{
+		"id": "10",
+		"titulo": "Contraditorium",
+		"link": "contraditorium.com",
+		"aba": ""
+	},
+	{
+		"id": "11",
+		"titulo": "Steam",
+		"link": "store.steampowered.com",
+		"aba": ""
+	},
+	{
+		"id": "12",
+		"titulo": "Ultimate Guitar",
+		"link": "ultimate-guitar.com",
+		"aba": ""
+	},
+	{
+		"id": "13",
+		"titulo": "Netflix",
+		"link": "netflix.com",
+		"aba": ""
+	},
+	{
+		"id": "14",
+		"titulo": "Disney+",
+		"link": "disneyplus.com",
+		"aba": ""
+	},
+	{
+		"id": "15",
+		"titulo": "HBO Max",
+		"link": "play.hbomax.com",
+		"aba": ""
+	},
+	{
+		"id": "16",
+		"titulo": "Prime",
+		"link": "primevideo.com",
+		"aba": ""
+	},
+	{
+		"id": "17",
+		"titulo": "Star+",
+		"link": "starplus.com",
+		"aba": ""
+	},
+	{
+		"id": "18",
+		"titulo": "Paramount+",
+		"link": "paramountplus.com",
+		"aba": ""
+	},
+	{
+		"id": "19",
+		"titulo": "DIM",
+		"link": "app.destinyitemmanager.com",
+		"aba": ""
+	},
+	{
+		"id": "20",
+		"titulo": "Braytech",
+		"link": "bray.tech",
+		"aba": "Jogo"
+	},
+	{
+		"id": "21",
+		"titulo": "GitHub",
+		"link": "github.com/by-unfear",
+		"aba": "trabalho"
+	},
+	{
+		"id": "22",
+		"titulo": "Linkedin",
+		"link": "linkedin.com",
+		"aba": "trabalho"
+	},
+	{
+		"id": "23",
+		"titulo": "Staskoverflow",
+		"link": "stackoverflow.com",
+		"aba": "trabalho"
+	},
+	{
+		"id": "24",
+		"titulo": "Visual Studio",
+		"link": "unfear.visualstudio.com",
+		"aba": "trabalho"
+	},
+	{
+		"id": "25",
+		"titulo": "Cloud Flare",
+		"link": "cloudflare.com",
+		"aba": "trabalho"
+	},
+	{
+		"id": "26",
+		"titulo": "Analitycs",
+		"link": "marketingplatform.google.com",
+		"aba": "trabalho"
+	},
+	{
+		"id": "27",
+		"titulo": "Regex",
+		"link": "regexr.com",
+		"aba": "trabalho"
+	},
+	{
+		"id": "28",
+		"titulo": "Code Signal",
+		"link": "app.codesignal.com",
+		"aba": "trabalho"
+	},
+	{
+		"id": "29",
+		"titulo": "Hero Handmade",
+		"link": "hero.handmade.network/episode/code",
+		"aba": "trabalho"
+	},
+	{
+		"id": "30",
+		"titulo": "Javascript",
+		"link": "javascript.info",
+		"aba": "trabalho"
+	},
+	{
+		"id": "31",
+		"titulo": "Ma-no",
+		"link": "ma-no.org",
+		"aba": "trabalho"
+	},
+	{
+		"id": "32",
+		"titulo": "Hostgator",
+		"link": "cliente.hostgator.com.br",
+		"aba": "trabalho"
+	},
+	{
+		"id": "33",
+		"titulo": "Rocketseat",
+		"link": "app.rocketseat.com.br/dashboard",
+		"aba": "trabalho"
+	}
+]

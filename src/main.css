@@ -1,0 +1,15 @@
+:root {
+	font-family: Inter, system-ui, Avenir, Helvetica, Arial, sans-serif;
+}
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body {
+	background-image: linear-gradient(to right, var(--tw-gradient-stops));
+	--tw-gradient-from: #1e1b4b var(--tw-gradient-from-position);
+	--tw-gradient-to: rgb(30 27 75 / 0) var(--tw-gradient-to-position);
+	--tw-gradient-stops: var(--tw-gradient-from), var(--tw-gradient-to);
+	--tw-gradient-to: #581c87 var(--tw-gradient-to-position);
+}
